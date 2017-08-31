@@ -1,0 +1,6 @@
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\bin\Debug\ComputePI.exe.config
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\bin\Debug\ComputePI.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\bin\Debug\ComputePI.pdb
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\obj\Debug\ComputePI.csprojResolveAssemblyReference.cache
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\obj\Debug\ComputePI.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\ComputePI\ComputePI\obj\Debug\ComputePI.pdb
