@@ -1,0 +1,6 @@
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\bin\Debug\HarmonicSum.exe.config
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\bin\Debug\HarmonicSum.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\bin\Debug\HarmonicSum.pdb
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\obj\Debug\HarmonicSum.csprojResolveAssemblyReference.cache
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\obj\Debug\HarmonicSum.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\HarmonicSum\HarmonicSum\obj\Debug\HarmonicSum.pdb
