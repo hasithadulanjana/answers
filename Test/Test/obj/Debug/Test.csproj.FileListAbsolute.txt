@@ -1,0 +1,6 @@
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+\\adfsstud1\f-i\hap0296\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
