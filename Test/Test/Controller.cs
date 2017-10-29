@@ -11,10 +11,13 @@
         ExSixModel exSixModel;
         ExSevenModel exSevenModel;
         ExEightModel exEightModel;
+        ExNineModel exNinemodel;
+        ExTenModel exTenModel;
+        ExElevnModel exElevenModel;
 
         public Controller(IView newView,Model newModel, ExceriseTwoModel newExTwoModel,ExThreeModel newExThreeModel,
             ExFourModel newExFourModel, ExFiveModel newExFiveModel, ExSixModel newExSixModel, ExSevenModel newExSevenModel,
-            ExEightModel newExEightModel, )
+            ExEightModel newExEightModel,ExNineModel newExNineModel, ExTenModel newexTenModel, ExElevnModel newElvenModel )
         {
             myView = newView;
             myModel = newModel;
@@ -25,6 +28,9 @@
             exSixModel = newExSixModel;
             exSevenModel = newExSevenModel;
             exEightModel = newExEightModel;
+            exNinemodel = newExNineModel;
+            exTenModel = newexTenModel;
+            exElevenModel = newElvenModel;
         }
 
         public void Go()
@@ -75,7 +81,7 @@
                break;
 
                case 6:
-                    //Exceersie 5 While Do
+                    //Exceersie 6 While Do
                     int value = 100;
                     myView.Say("Calculate num between 1 to 100 using do while");
                     myView.Say(exSixModel.calualteValues(value));
@@ -84,6 +90,7 @@
                break;
 
                 case 7:
+                    //Exceersie 7 
                     myView.Say("Calculate num between 111 to 8989 using for loop");
                     int startValue = 111;
                     int endValue = 8989;
@@ -92,11 +99,43 @@
                     myView.Wait();
                     break;
                 case 8:
+                    //Exceersie 8
                     myView.Say("Calcalate the odd numbers between 1 to 100");
                     int highest = 100;
                     myView.Say(exEightModel.calOddnum(highest));
                     myView.Say(exEightModel.GetAverage(highest));
                     myView.Wait();
+                    break;
+
+                case 9:
+                    //Exceersie 9
+                    myView.Say("Calcalate the odd numbers between 1 to 100");
+                    int targetValue = 100;
+                    myView.Say(exNinemodel.getNumbers(targetValue));
+                    myView.Wait();
+                    break;
+
+                case 10:
+                    myView.Say("Finding the square numnbers from 1 to 100");
+                    int lowestNumber = 1;
+                    int highestNumber = 100;
+                    myView.Say(exTenModel.FindSquresRoot(lowestNumber, highestNumber));
+                    myView.Wait();
+                    break;
+                case 11:
+                    myView.Say("find the product numbers");
+                    
+                   
+                    int endproduct = 14;
+                   
+                    for(int startProd = 10; startProd <= 14; startProd++)
+                    {
+                        myView.Say(exElevenModel.FindProducts(startProd));
+                    }
+                    
+                    myView.Wait();
+                    break;
+                case 12:
                     break;
             }
 

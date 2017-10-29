@@ -48,11 +48,13 @@
     <Compile Include="Controller.cs" />
     <Compile Include="ExceriseTwoModel.cs" />
     <Compile Include="ExEightModel.cs" />
+    <Compile Include="ExElevnModel.cs" />
     <Compile Include="ExFiveModel.cs" />
     <Compile Include="ExFourModel.cs" />
     <Compile Include="ExNineModel.cs" />
     <Compile Include="ExSevenModel.cs" />
     <Compile Include="ExSixModel.cs" />
+    <Compile Include="ExTenModel.cs" />
     <Compile Include="ExThreeModel.cs" />
     <Compile Include="IView.cs" />
     <Compile Include="Model.cs" />
